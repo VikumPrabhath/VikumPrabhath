@@ -7,11 +7,11 @@
 
 <br>
 
-- 🔭 I'm currently working on: **Gallery Tool**
-- 🌱 I'm currently learning: **Python**
-- 💬 Ask me about: **C#, Java, HTML, CSS, Node.js, SQL, PHP**
-- 📫 How to reach me: **vikumprabhath4@gmail.com**
-- ⚡ Fun fact: **🦾 I talk to my code. Sometimes, it talks back. (Okay, not really — but it should!)**
+- 🔭 I'm currently working on **Gallery Tool**
+- 🌱 I'm currently learning **Python**
+- 💬 Ask me about **C#, Java, HTML, CSS, Node.js, SQL, PHP**
+- 📫 How to reach me **vikumprabhath4@gmail.com**
+- ⚡ Fun fact **🦾 I talk to my code. Sometimes, it talks back. (Okay, not really — but it should!)**
 
 ---
 
